@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tss:senteContainer version="1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.thirdstreetsoftware.com/SenteXML-1.0 SenteXML.xsd" xmlns:tss="http://www.thirdstreetsoftware.com/SenteXML-1.0" xmlns="http://www.thirdstreetsoftware.com/SenteXML-1.0" >
+<tss:library>
+<tss:references>
+<tss:reference>
+<tss:publicationType name="Web page"/>
+<tss:authors>
+<tss:author role="Author"><tss:surname>Trochim</tss:surname><tss:forenames>William MK</tss:forenames><tss:initials>WMK</tss:initials></tss:author>
+</tss:authors>
+<tss:dates>
+<tss:date type="Publication" day="20" month="10" year="2006"/>
+<tss:date type="Retrieval" day="2" month="12" year="2010"/>
+<tss:date type="Entry" day="2" month="12" year="2010"/>
+<tss:date type="Modification" day="3" month="5" year="2014"/>
+</tss:dates>
+<tss:characteristics>
+<tss:characteristic name="articleTitle">Sampling</tss:characteristic>
+<tss:characteristic name="UUID">76C21E61-D041-4811-BED8-A36DA0047C58</tss:characteristic>
+<tss:characteristic name="BibTeX cite tag">Trochim:Sampling:2006</tss:characteristic>
+<tss:characteristic name="Citation identifier">Trochim 2006</tss:characteristic>
+<tss:characteristic name="URL">http://www.socialresearchmethods.net/kb/sampling.php</tss:characteristic>
+</tss:characteristics>
+<tss:keywords>
+</tss:keywords>
+<tss:attachments>
+</tss:attachments>
+</tss:reference>
+<tss:reference>
+<tss:publicationType name="Web page"/>
+<tss:authors>
+<tss:author role="Author"><tss:surname>World Bank</tss:surname><tss:forenames></tss:forenames><tss:initials></tss:initials></tss:author>
+</tss:authors>
+<tss:dates>
+<tss:date type="Publication" year="2014"/>
+<tss:date type="Retrieval" day="7" month="4" year="2014"/>
+<tss:date type="Entry" day="7" month="4" year="2014"/>
+<tss:date type="Modification" day="22" month="8" year="2014"/>
+</tss:dates>
+<tss:characteristics>
+<tss:characteristic name="articleTitle">The World Bank Projects and Operations</tss:characteristic>
+<tss:characteristic name="UUID">5C9068B3-BAD0-47A3-B840-1AE558AC9367</tss:characteristic>
+<tss:characteristic name="BibTeX cite tag">WorldBank2014a</tss:characteristic>
+<tss:characteristic name="Citation identifier">WorldBank 2014a</tss:characteristic>
+<tss:characteristic name="publicationStatus">Unknown</tss:characteristic>
+<tss:characteristic name="URL">http://www.worldbank.org/projects</tss:characteristic>
+</tss:characteristics>
+</tss:reference>
+</tss:references>
+</tss:library>
+</tss:senteContainer>
